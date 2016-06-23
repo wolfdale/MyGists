@@ -4,3 +4,4 @@ Index for all my Gists<br/>
 <a href='https://gist.github.com/wolfdale/b9bfb3541d3d5f831b6f'>YouTubeMP3DownloadScript</a><br/>
 <a href='https://gist.github.com/wolfdale/0475335da2418291c763'>Plotting Random Numbers on Graph</a><br/>
 <a href='https://gist.github.com/wolfdale/e00e217afa4375a7d4334ff7bbd19541'>Analytics - Top 10 Commands from 'history'</a><br/>
+<a href='https://gist.github.com/wolfdale/b3a9af4c952b48de47f849d803a51c32'>Some Important Links</a><br/>
